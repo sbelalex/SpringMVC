@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1912508025">
+    <data-source source="LOCAL" name="Data Source - intServ" product="MySQL" version="5.0.45-community-nt" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.27 ( Revision: alexander.soklakov@oracle.com-20131021093118-gtm1bh1vb450xipt )" uuid="00f5d90c-cbee-49d3-bc84-16bd223266c0">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.gjt.mm.mysql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/intServ</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc7dfd3dfd9dfdbdfc6dfd8dfc5dfc5dfde</user-password>
+      <schema-pattern>intserv.*</schema-pattern>
+      <default-schemas>intserv.*</default-schemas>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.27/mysql-connector-java-5.1.27.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/intServ.iml" filepath="$PROJECT_DIR$/intServ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/intServ-core.iml" filepath="$PROJECT_DIR$/core/intServ-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/intServ-web.iml" filepath="$PROJECT_DIR$/web/intServ-web.iml" />
+    </modules>
+  </component>
+</project>
+
