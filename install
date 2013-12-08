@@ -1,0 +1,75 @@
+[INFO] Scanning for projects...
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom (4 KB at 0.7 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar (25 KB at 8.4 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom (7 KB at 33.3 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom (9 KB at 41.0 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom (30 KB at 97.8 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom (15 KB at 66.0 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar (27 KB at 84.4 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom (21 KB at 86.9 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom (11 KB at 52.0 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/23/maven-parent-23.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/23/maven-parent-23.pom (32 KB at 107.5 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/13/apache-13.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/apache/13/apache-13.pom (14 KB at 58.3 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar (122 KB at 131.7 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.pom (12 KB at 51.3 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar (150 KB at 145.1 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.pom (10 KB at 41.5 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.3.2/maven-release-2.3.2.pom
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.3.2/maven-release-2.3.2.pom (9 KB at 0.6 KB/sec)
+[INFO] Downloading: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.jar
+[INFO] Downloaded: http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugin-2.3.2.jar (44 KB at 55.5 KB/sec)
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Maven Stub Project (No POM) 1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> maven-archetype-plugin:2.2:generate (default-cli) @ standalone-pom >>>
+[INFO] 
+[INFO] <<< maven-archetype-plugin:2.2:generate (default-cli) @ standalone-pom <<<
+[INFO] 
+[INFO] --- maven-archetype-plugin:2.2:generate (default-cli) @ standalone-pom ---
+[INFO] Generating project in Batch mode
+[INFO] Archetype defined by properties
+[INFO] Downloading: http://oss.sonatype.org/content/repositories/appfuse/org/appfuse/archetypes/appfuse-modular-spring-archetype/2.2.2-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded: http://oss.sonatype.org/content/repositories/appfuse/org/appfuse/archetypes/appfuse-modular-spring-archetype/2.2.2-SNAPSHOT/maven-metadata.xml (810 B at 0.0 KB/sec)
+[INFO] Downloading: http://oss.sonatype.org/content/repositories/appfuse/org/appfuse/archetypes/appfuse-modular-spring-archetype/2.2.2-SNAPSHOT/appfuse-modular-spring-archetype-2.2.2-20131113.140249-126.jar
+[INFO] Downloaded: http://oss.sonatype.org/content/repositories/appfuse/org/appfuse/archetypes/appfuse-modular-spring-archetype/2.2.2-SNAPSHOT/appfuse-modular-spring-archetype-2.2.2-20131113.140249-126.jar (240 KB at 23.0 KB/sec)
+[INFO] Downloading: http://oss.sonatype.org/content/repositories/appfuse/org/appfuse/archetypes/appfuse-modular-spring-archetype/2.2.2-SNAPSHOT/appfuse-modular-spring-archetype-2.2.2-20131113.140249-126.pom
+[INFO] Downloaded: http://oss.sonatype.org/content/repositories/appfuse/org/appfuse/archetypes/appfuse-modular-spring-archetype/2.2.2-SNAPSHOT/appfuse-modular-spring-archetype-2.2.2-20131113.140249-126.pom (2 KB at 0.4 KB/sec)
+[INFO] ----------------------------------------------------------------------------
+[INFO] Using following parameters for creating project from Archetype: appfuse-modular-spring-archetype:2.2.2-SNAPSHOT
+[INFO] ----------------------------------------------------------------------------
+[INFO] Parameter: groupId, Value: com.belalx
+[INFO] Parameter: artifactId, Value: intServ
+[INFO] Parameter: version, Value: 1.0-SNAPSHOT
+[INFO] Parameter: package, Value: com.belalx
+[INFO] Parameter: packageInPathFormat, Value: com/belalx
+[INFO] Parameter: version, Value: 1.0-SNAPSHOT
+[INFO] Parameter: package, Value: com.belalx
+[INFO] Parameter: groupId, Value: com.belalx
+[INFO] Parameter: artifactId, Value: intServ
+[INFO] Parent element not overwritten in C:\Work\Training\AppFuse\SpringMVC\intServ\core\pom.xml
+[INFO] Parent element not overwritten in C:\Work\Training\AppFuse\SpringMVC\intServ\web\pom.xml
+[INFO] project created from Archetype in dir: C:\Work\Training\AppFuse\SpringMVC\intServ
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1:42.922s
+[INFO] Finished at: Wed Nov 13 23:57:43 FET 2013
+[INFO] Final Memory: 9M/23M
+[INFO] ------------------------------------------------------------------------
